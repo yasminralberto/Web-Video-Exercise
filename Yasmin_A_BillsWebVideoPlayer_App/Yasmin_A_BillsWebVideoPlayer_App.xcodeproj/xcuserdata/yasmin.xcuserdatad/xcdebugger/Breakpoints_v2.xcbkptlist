@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "68599EA6-187A-4900-A2F9-DE0EE7C0194B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6A527745-6AE3-458A-91DC-8C16EA4AB341"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Yasmin_A_BillsWebVideoPlayer_App/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "6A527745-6AE3-458A-91DC-8C16EA4AB341 - 42835d72a65f4872"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Yasmin_A_BillsWebVideoPlayer_App.ViewController.webView.getter : Swift.Optional&lt;__C.WKWebView&gt;"
+                  moduleName = "Yasmin_A_BillsWebVideoPlayer_App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yasmin/Documents/Coding%20Projects/Exercises/Yasmin_A_BillsWebVideoPlayer_App/Yasmin_A_BillsWebVideoPlayer_App/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  uuid = "6A527745-6AE3-458A-91DC-8C16EA4AB341 - d061b11e5d10f47e"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Yasmin_A_BillsWebVideoPlayer_App.ViewController.webView.setter : Swift.Optional&lt;__C.WKWebView&gt;"
+                  moduleName = "Yasmin_A_BillsWebVideoPlayer_App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yasmin/Documents/Coding%20Projects/Exercises/Yasmin_A_BillsWebVideoPlayer_App/Yasmin_A_BillsWebVideoPlayer_App/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "6A527745-6AE3-458A-91DC-8C16EA4AB341 - 96de8f71a4c3e96f"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Yasmin_A_BillsWebVideoPlayer_App.ViewController.webView.modify : Swift.Optional&lt;__C.WKWebView&gt;"
+                  moduleName = "Yasmin_A_BillsWebVideoPlayer_App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yasmin/Documents/Coding%20Projects/Exercises/Yasmin_A_BillsWebVideoPlayer_App/Yasmin_A_BillsWebVideoPlayer_App/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "6A527745-6AE3-458A-91DC-8C16EA4AB341 - 93d95ce162fc6e08"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Yasmin_A_BillsWebVideoPlayer_App.ViewController.webView.modify : Swift.Optional&lt;__C.WKWebView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Yasmin_A_BillsWebVideoPlayer_App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yasmin/Documents/Coding%20Projects/Exercises/Yasmin_A_BillsWebVideoPlayer_App/Yasmin_A_BillsWebVideoPlayer_App/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "6A527745-6AE3-458A-91DC-8C16EA4AB341 - ac86e085984a808"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Yasmin_A_BillsWebVideoPlayer_App.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Yasmin_A_BillsWebVideoPlayer_App.ViewController"
+                  moduleName = "Yasmin_A_BillsWebVideoPlayer_App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yasmin/Documents/Coding%20Projects/Exercises/Yasmin_A_BillsWebVideoPlayer_App/Yasmin_A_BillsWebVideoPlayer_App/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "6A527745-6AE3-458A-91DC-8C16EA4AB341 - b174c25d444fb4ca"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Yasmin_A_BillsWebVideoPlayer_App.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Yasmin_A_BillsWebVideoPlayer_App.ViewController&gt;"
+                  moduleName = "Yasmin_A_BillsWebVideoPlayer_App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yasmin/Documents/Coding%20Projects/Exercises/Yasmin_A_BillsWebVideoPlayer_App/Yasmin_A_BillsWebVideoPlayer_App/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8B28BC1E-4EE5-4BD2-81CA-AC609921E6F6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Yasmin_A_BillsWebVideoPlayer_App/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CEBF94C6-9D2B-4898-86B4-FCB39DD0336E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Yasmin_A_BillsWebVideoPlayer_App/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "28BADDED-DCE6-41A2-A4EA-61F057AEBB21"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Yasmin_A_BillsWebVideoPlayer_App/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "28BADDED-DCE6-41A2-A4EA-61F057AEBB21 - 203a936827f59c0e"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Yasmin_A_BillsWebVideoPlayer_App.ViewController.myView.getter : __C.WKWebView"
+                  moduleName = "Yasmin_A_BillsWebVideoPlayer_App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yasmin/Documents/Coding%20Projects/Exercises/Yasmin_A_BillsWebVideoPlayer_App/Yasmin_A_BillsWebVideoPlayer_App/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  uuid = "28BADDED-DCE6-41A2-A4EA-61F057AEBB21 - d2c3d631a8a8181a"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Yasmin_A_BillsWebVideoPlayer_App.ViewController.myView.setter : __C.WKWebView"
+                  moduleName = "Yasmin_A_BillsWebVideoPlayer_App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yasmin/Documents/Coding%20Projects/Exercises/Yasmin_A_BillsWebVideoPlayer_App/Yasmin_A_BillsWebVideoPlayer_App/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "28BADDED-DCE6-41A2-A4EA-61F057AEBB21 - b6713fab8cf20d0b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Yasmin_A_BillsWebVideoPlayer_App.ViewController.myView.modify : __C.WKWebView"
+                  moduleName = "Yasmin_A_BillsWebVideoPlayer_App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yasmin/Documents/Coding%20Projects/Exercises/Yasmin_A_BillsWebVideoPlayer_App/Yasmin_A_BillsWebVideoPlayer_App/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "28BADDED-DCE6-41A2-A4EA-61F057AEBB21 - 3a23df21c660e2a6"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Yasmin_A_BillsWebVideoPlayer_App.ViewController.myView.modify : __C.WKWebView with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Yasmin_A_BillsWebVideoPlayer_App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yasmin/Documents/Coding%20Projects/Exercises/Yasmin_A_BillsWebVideoPlayer_App/Yasmin_A_BillsWebVideoPlayer_App/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "28BADDED-DCE6-41A2-A4EA-61F057AEBB21 - ac86e085984a808"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Yasmin_A_BillsWebVideoPlayer_App.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Yasmin_A_BillsWebVideoPlayer_App.ViewController"
+                  moduleName = "Yasmin_A_BillsWebVideoPlayer_App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yasmin/Documents/Coding%20Projects/Exercises/Yasmin_A_BillsWebVideoPlayer_App/Yasmin_A_BillsWebVideoPlayer_App/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "240">
+               </Location>
+               <Location
+                  uuid = "28BADDED-DCE6-41A2-A4EA-61F057AEBB21 - b174c25d444fb4ca"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Yasmin_A_BillsWebVideoPlayer_App.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Yasmin_A_BillsWebVideoPlayer_App.ViewController&gt;"
+                  moduleName = "Yasmin_A_BillsWebVideoPlayer_App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yasmin/Documents/Coding%20Projects/Exercises/Yasmin_A_BillsWebVideoPlayer_App/Yasmin_A_BillsWebVideoPlayer_App/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "162">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9B501EE5-F639-4B2B-825A-C72201D0CCA0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Yasmin_A_BillsWebVideoPlayer_App/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
